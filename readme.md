@@ -29,6 +29,7 @@
 
 ![询问攻略意图](http://dbp-resource.gz.bcebos.com/29117267-ae07-aa1c-f110-e579fa6d2fb7/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20190116211651.png?authorization=bce-auth-v1%2Fa4d81bbd930c41e6857b989362415714%2F2019-01-16T13%3A30%3A39Z%2F-1%2F%2Fdeb44be288e93800049bb54bd8642c1967fe8af120c33818245e639b581beb3c)
 
+还有，当同一城市同一天数不只一条攻略时（如：东京3天旅游攻略，有2条推荐攻略），需要创建“下一个”意图：
 ![下一个攻略](http://dbp-resource.gz.bcebos.com/29117267-ae07-aa1c-f110-e579fa6d2fb7/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20190116211725.png?authorization=bce-auth-v1%2Fa4d81bbd930c41e6857b989362415714%2F2019-01-16T13%3A30%3A39Z%2F-1%2F%2F28b792ec0c1d38fbaefd6987020de09ace7c25e8bf78429ea4438e16c2a1f224)
 
 另外，为处理用户直接说“东京”名称的用例，技能还引用了[系统缺省意图](https://developer.dueros.baidu.com/didp/doc/dueros-bot-platform/dbp-nlu/defaultIntent_markdown)。
